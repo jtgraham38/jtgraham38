@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtgraham38
 - 👀 I’m interested in Web Development, Cybersecurity, Game Development, and more. 
-- 🌱 I’m currently learning IOs App Development, Blockchain Development, Cybersecurity, and Ecommerce.
+- 🌱 I’m currently learning IOS App Development, Blockchain Development, Cybersecurity, and Ecommerce.
 - 💞️ I’m looking to collaborate on any interesting and unique projects!
 - 📫 How to reach me http://jacob-t-graham.com/contact/
 
