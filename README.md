@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtgraham38
 - 👀 I’m interested in Web Development, Blockchain Development, Artificial Intelligence, and more. 
-- 🌱 I’m currently learning Websockets, Laravel, Android Development, and WordPress Development.
+- 🌱 I’m currently learning WordPress Development, Blockchain Development, Canvas Libraries, GraphQL, FastAPI, and SQLModel.
 - 💞️ I’m looking to collaborate on any interesting and unique projects!
 - 📫 How to reach me http://jacob-t-graham.com/contact/
 
